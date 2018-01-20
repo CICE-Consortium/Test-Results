@@ -1,3 +1,3 @@
 Test results for CICE-Consortium Models can be found HERE:
 
-# https://cice-consortium.github.io/Test-Results
+# https://github.com/CICE-Consortium/Test-Results/wiki
